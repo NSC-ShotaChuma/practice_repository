@@ -7,5 +7,5 @@ public static void kannsuu_atsushi(){
 }
 
 public static void kannsuu_for conflict(){
-  // こっちは後で、２名同時に書き換えてエラー吐くのの実験用
+  System.out.println('conflict_atsushi')
 }
