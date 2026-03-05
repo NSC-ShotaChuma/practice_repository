@@ -7,5 +7,5 @@ public static void kannsuu_atsushi(){
 }
 
 public static void kannsuu_for conflict(){
-    System.out.println('書き換える')
+  System.out.println('conflict_atsushi')
 }
