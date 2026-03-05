@@ -1,5 +1,5 @@
 public static void kannsuu_chuma(){
-  //なんでも良いのでここに適当なコードを書いて下さい
+ practice code
 }
 
 public static void kannsuu_atsushi(){
