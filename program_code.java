@@ -9,3 +9,6 @@ public static void kannsuu_atsushi(){
 public static void kannsuu_for conflict(){
   System.out.println('conflict_atsushi')
 }
+public static void kannsuu_add(){
+    System.out.println('これを追加')
+}
